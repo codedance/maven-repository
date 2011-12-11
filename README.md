@@ -24,6 +24,6 @@ Avaliable artifacts:
 
 
 		<groupId>com.google.template</groupId>
-      		<artifactId>soy</artifactId>
-      		<version>2011-14-10</version>
+		<artifactId>soy</artifactId>
+		<version>2011-14-10</version>
 
