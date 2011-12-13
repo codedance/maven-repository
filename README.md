@@ -29,3 +29,11 @@ Avaliable artifacts:
 		<artifactId>soy</artifactId>
 		<version>2011-14-10</version>
 
+*	**Resteasy-Guice**
+	Resteasy guice plugin with Guice 3.0 support.
+
+	License: [GNU Library or Lesser General Public License (LGPL)](http://sourceforge.net/softwaremap/?&fq%5B%5D=trove%3A16)
+
+		<groupId>org.jboss.resteasy</groupId>
+                <artifactId>resteasy-guice</artifactId>
+                <version>2.2.1.GA.GUICE3</version>
