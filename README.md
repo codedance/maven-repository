@@ -10,7 +10,7 @@ Repository params:
 
 Avaliable artifacts:
 
-*	**Silken**   
+*	**[Silken](https://github.com/codedance/silken)**   
 	A Servlet environment that makes Google Closure Templates taste a little nicer.
 
 	License: [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
@@ -19,7 +19,7 @@ Avaliable artifacts:
 		<artifactId>silken</artifactId>
 		<version>2011-12-11</version>
 
-*	**Google Closure Templates**   
+*	**[Google Closure Templates](http://code.google.com/closure/templates/)**   
 	Google Closure Templates (Soy) releases. An unoffical repo until http://code.google.com/p/closure-templates/issues/detail?id=7 is closed.
 	
 	License: [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
