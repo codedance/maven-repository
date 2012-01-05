@@ -1,4 +1,4 @@
-A Maven repository for public projects maintained or supported by codedance.
+A Maven repository for public projects maintained or supported by [codedance](https://github.com/codedance).
 
 Repository params:
 
