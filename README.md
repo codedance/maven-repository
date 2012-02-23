@@ -17,7 +17,7 @@ Avaliable artifacts:
 
 		<groupId>com.papercut.silken</groupId>
 		<artifactId>silken</artifactId>
-		<version>2012-01-05</version>
+		<version>2012-02-23</version>
 
 *	**[Google Closure Templates](http://code.google.com/closure/templates/)**   
 	Google Closure Templates (Soy) releases. An unoffical repo until http://code.google.com/p/closure-templates/issues/detail?id=7 is closed.
