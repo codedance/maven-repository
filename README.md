@@ -27,7 +27,7 @@ Avaliable artifacts:
 
 		<groupId>com.google.template</groupId>
 		<artifactId>soy</artifactId>
-		<version>2011-14-10</version>
+		<version>2012-12-21</version>
 
 *	**Resteasy-Guice**
 	Resteasy guice plugin with Guice 3.0 support.
